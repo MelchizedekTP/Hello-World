@@ -2,7 +2,7 @@
 
 ## Folder Structure
 
-- content.json
+- Content.json
 - Mission.txt
 - Vision.txt
 - Blogs
@@ -10,7 +10,7 @@
     - 1.jpg
     - 1.txt
   - ...
-- Poster
+- Posters
   - 1
     - 1.jpg
     - 1.txt
