@@ -25,6 +25,6 @@
 Template :
 
         {
-           "blogs" : "<Total number of blogs>" ,
-           "poster" : "<Total number of posters>"
+           "Blogs" : "<Total number of blogs>" ,
+           "Poster" : "<Total number of posters>"
         }
